@@ -1,0 +1,369 @@
+body{
+background-image:url(img/b3335dbb0ba6ebf112b6ec54d1902dbd.jpg);
+background-repeat:repeat;
+background-attachment:fixed;}
+
+div.tengah{	margin:20px 0px 35px 106px;
+			width:83%;
+			height:20px;
+			border:1px solid white;
+			background-color:  #333333;}	
+			
+div.home{	margin:45px 0px 0px 110px;
+			width:85%;
+			height:80%;
+			border:1px solid #DCDCDC;
+			border-radius: 5px;
+			background-color:white;}
+			
+div.kiri{	width:30%;
+			height:100%;
+			float:left;
+			border:1px solid black;
+			border-radius: 10px;}	
+			
+div.isi{	width:94%;
+			height:70%;
+			background-color:white;
+			margin: 3px 0px 0px 40px;
+			position:absolute;}
+			
+div.dua{	margin:20px 0px 0px 40px;
+			width:94%;
+			height: 20px;
+			background-color: #333333;}
+			
+div.dua1{	margin:3px 0px 0px 40px;
+			width:94%;
+			height: 130px;
+			background-color: 	#0099FF;
+			border-radius: 5px;}
+			
+div.bawah{	margin:5px 0px 20px 110px;
+			width:85%;
+			height: 60px;
+			background-color: #0099FF;
+			border-radius: 5px;}
+
+div.isi1{	width:94%;
+			height:84%;
+			background-color:white;
+			margin: 3px 0px 0px 40px;
+			position:absolute;}			
+
+div.isi2{	width:94%;
+			height:73%;
+			background-color:white;
+			margin: 3px 0px 20% 40px;
+			position:absolute;}		
+			
+			
+.Input-btn {
+  margin: 0px 0px 0px 88%;
+  background-color: #333333;
+  width: 10%;
+  height:40px;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: inherit;
+  color:white;
+  border-style:solid;
+  border-radius: 0.4rem;}			
+	
+.Input-btn1 {
+  margin: 0px 30px 0px 10%;
+  background-color: #333333;
+  width: 50%;
+  height:40px;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: inherit;
+  color:white;
+  border-style:solid;
+  border-radius: 0.4rem;}	
+  
+.Input-btn2 {
+  margin: 0px 0px 0px 15%;
+  background-color: #333333;
+  width: 20%;
+  height:40px;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: inherit;
+  color:white;
+  border-style:solid;
+  border-radius: 0.4rem;}	
+
+  
+.tabel{
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 98%;
+    border: 1px solid white;
+	margin: 3px 0px 0px 15px;}
+	
+.tabel tr th{
+	border: 1px solid black;
+    background:  #333333;
+    color: #fff;
+    font-weight: normal;}
+	
+.tabel, th, td {
+    padding: 8px 20px;}
+	
+.tabel2 {
+    font-family: sans-serif;
+    color: #444;
+    width: 100%;}
+	
+.tabel2 tr th{
+    background: #0099FF;
+    color: #fff;
+    font-weight: normal;}
+ 
+.tabel2, th, td {
+    padding: 8px 20px;}
+
+.tabel3 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 47%;
+    border: 1px solid black;
+	margin: 5px 0px 0px 50.5%;}
+ 
+.tabel3 tr th{
+    background: white;
+    color: black;
+	border: 1px solid black;
+    font-weight: normal;}
+ 
+.tabel3, th, td {
+	border: 1px solid black;
+    padding: 8px 20px;}	
+	
+.tabel4{
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 47%;
+    border: 1px solid white;
+	margin: -371.5px 0% 0px 2.8%;}
+ 
+.tabel4 tr th{
+    background:  #333333;
+    color: #fff;
+	border: 1px solid white;
+    font-weight: normal;}
+ 
+.tabel4, th, td {
+	border: 1px solid black;
+    padding: 8px 20px;}
+	
+.tabel5{
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 98%;
+    border: 1px solid white;
+	margin: 15px 0px 0px 15px;}
+	
+.tabel5 tr th{
+	border: 1px solid black;
+    background:  #333333;
+    color: #fff;
+    font-weight: normal;}
+	
+.tabel5, th, td {
+    padding: 8px 20px;}
+
+.tabel6 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 45.0%;
+    border: 0px solid black;
+	margin: 25px 0px 0px 7%;
+    align-items: center;
+}
+ 
+.tabel6 tr th{
+	border: 0px solid black;
+    color: #fff;
+    font-weight: normal;}
+ 
+.tabel6, th, td {
+    padding: 0px 20px;}	
+
+.tabel7{
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 30%;
+    border: 1px solid black;
+	margin: 29.5px 0px 0px 34.5%;}
+	
+.tabel8 {
+    font-family: sans-serif;
+    color: #444;
+	background-color : #0099FF;
+    border-collapse: collapse;
+    width: 38%;
+	height: 5.5%;
+    border: 1px solid black;
+	margin: -500px 0px 0px 55%;}
+ 
+.tabel8 tr th{
+    background: white;
+    color: black;
+	border: 1px solid black;
+    font-weight: normal;}
+ 
+.tabel8, th, td {
+	border: 1px solid black;
+    padding: 8px 20px;}
+	
+.tabel10 {
+    font-family: sans-serif;
+    color: #444;
+	background-color : #0099FF;
+    border-collapse: collapse;
+    width: 38%;
+	height: 5.5%;
+    border: 1px solid black;
+	margin: 5px 0px 0px 55%;}
+ 
+.tabel0tr th{
+    background: white;
+    color: black;
+	border: 1px solid black;
+    font-weight: normal;}
+ 
+.tabel0, th, td {
+	border: 1px solid black;
+    padding: 8px 20px;}
+	
+.tabel9 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 38%;
+	height: 5.5%;
+    border: 1px solid black;
+	margin: 3px 50px 0px 55%;}
+ 
+.tabel9 tr th{
+    background: white;
+    color: black;
+	border: 1px solid black;
+    font-weight: normal;}
+ 
+.tabel9, th, td {
+	border: 1px solid black;
+    padding: 8px 20px;}
+	
+.tabel11 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 38%;
+	height: 5.5%;
+    border: 1px solid black;
+	margin: 3px 50px 0px 55%;}
+ 
+.tabel11 tr th{
+    background: white;
+    color: black;
+	border: 1px solid black;
+    font-weight: normal;}
+ 
+.tabel11, th, td {
+	border: 1px solid black;
+    padding: 8px 20px;}
+* {margin:0; padding:0;}
+ 
+body {
+ background-color:#fff;
+ color:#0099FF;
+}
+
+nav {
+ margin:auto;
+ text-align: center;
+ width: 100%;
+} 
+
+nav ul ul {
+ display: none;
+}
+
+nav ul li:hover > ul{
+display: block;
+width: 150px;
+}
+
+nav ul {
+ background: #0099FF;
+ padding: 0 20px;
+ list-style: none;
+ position: relative;
+ display: inline-table;
+ width: 100%;}
+
+nav ul:after {
+ content: ""; 
+ clear:both; 
+ display: block;
+}
+
+nav ul li{
+ float:left;
+}
+
+nav ul li:hover{
+ background:#333333;
+}
+
+nav ul li:hover a{
+ color:#fff;
+}
+
+nav ul li a{
+ display: block;
+ padding: 15px;
+ color: #fff;
+ text-decoration: none;
+}
+
+nav ul ul{
+ background: #0099FF;
+ padding: 0;
+ position: absolute;
+ top:100%;
+}
+
+nav ul ul li{
+ float:none;
+ border-top: 1px soild #0099FF;
+ border-bottom: 1px solid #0099FF;
+ position: relative;
+}
+
+nav ul ul li a{
+ padding: 5px 15px;
+ color: #fff;
+}
+
+nav ul ul li a:hover{
+ background-color: #333333;
+}
+
+nav ul ul ul{
+ position: absolute;
+ left: 100%;
+ top: 0;
+}
+li.o {float:right;}
+li.a{float:left;}
+
